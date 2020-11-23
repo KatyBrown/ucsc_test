@@ -1,0 +1,5 @@
+track type=bedGraph name=katy description=katy_regions visibility=full color=0,256,0 autoScale=on graphType=points yLineOnOff=on
+chr1	150	155	60
+chr1	155	165	65
+chr1	165	180	70
+chr1	180	182	75
