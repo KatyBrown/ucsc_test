@@ -1,0 +1,5 @@
+track type=bedGraph
+chr1	150	155	60
+chr1	155	165	65
+chr1	165	180	70
+chr1	180	182	75
